@@ -1,0 +1,16 @@
+.table_data{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+table>th{
+        padding: 10px;
+}
+
+
+.table_container {
+    transform: translate(59%, 297%);
+}
